@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:David;Julius;;;
+FN:Julius David
+ORG:Andersen in Namibia
+TITLE:Founding Partner
+TEL;TYPE=WORK,VOICE:+26461402520
+TEL;TYPE=CELL,VOICE:+264811296238
+TEL;TYPE=CELL,VOICE:+27637475004
+EMAIL;TYPE=WORK,INTERNET:julius.david@na.Andersen.com
+URL;TYPE=WORK:https://na.andersen.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/julius-david-56544733/
+URL;TYPE=WhatsApp:https://wa.me/264811296238
+URL;TYPE=DigitalCard:https://juliusdavidb-ctrl.github.io/andersen-card/
+ADR;TYPE=WORK:;;Office No. 310, 2nd Floor, Hidas Centre, 21 Nelson Mandela Avenue;Windhoek;Khomas;;Namibia
+NOTE:Digital business card https://juliusdavidb-ctrl.github.io/andersen-card/
+REV:2026-08-25T00:00:00Z
+END:VCARD
